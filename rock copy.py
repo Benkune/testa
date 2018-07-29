@@ -53,4 +53,4 @@ else :
 if winner == 'Tie' : # here we announce the winner as a tie
     print('we both choose', computer_choice + ',play again')
 else:
-    print(winner, 'won. The computer choose', computer_choice +  '.')
+    print(winner, 'won. The computer choose something like', computer_choice +  '.')
